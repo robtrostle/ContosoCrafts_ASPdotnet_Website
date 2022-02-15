@@ -6074,11 +6074,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robtr\\source\\repos\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
+      "projectUniqueName": "C:\\Users\\robtr\\source\\repos\\ContosoCrafts_ASPdotnet_Website\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
       "projectName": "ContosoCrafts.Website",
-      "projectPath": "C:\\Users\\robtr\\source\\repos\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
+      "projectPath": "C:\\Users\\robtr\\source\\repos\\ContosoCrafts_ASPdotnet_Website\\ContosoCrafts\\ContosoCrafts.Website\\ContosoCrafts.Website.csproj",
       "packagesPath": "C:\\Users\\robtr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robtr\\source\\repos\\ContosoCrafts\\ContosoCrafts.Website\\obj\\",
+      "outputPath": "C:\\Users\\robtr\\source\\repos\\ContosoCrafts_ASPdotnet_Website\\ContosoCrafts\\ContosoCrafts.Website\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\robtr\\AppData\\Roaming\\NuGet\\NuGet.Config",
